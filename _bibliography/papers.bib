@@ -21,7 +21,8 @@ abstract = {In the Internet of Things (IoT) era, wireless sensor networks play a
 author = {Zekun Zhang and Vu Quang Truong and Minh Hoai},
 title = {Efficiency-preserving Scene-adaptive Object Detection},
 year = {2024},
-booktitle = {Proceedings of British Machine Vision Conference}
+booktitle = {Proceedings of British Machine Vision Conference},
+abstract = {We present a framework that enables an object detector to self-enhance its accuracy while preserving its efficiency. This framework is particularly useful in settings where a single object detector is deployed to detect objects in video streams from numerous cameras. Our approach improves the object detector's precision by adapting it to specific scenes in a novel way that does not hinder the inference speed or overall system throughput. Specifically, it involves augmenting the object detector with a mixture-of-experts structure that only moderately increases the parameter count, avoiding the expense of replicating the entire model. The resulting enhanced detector operates as a self-contained unit, facilitating an efficient client-server architecture with a shared detection engine for multiple video streams. Our framework supports self-supervised learning, eliminating the reliance on manually annotated data, and it is compatible with various established object detector architectures. Experiments on the Scenes100 dataset demonstrate the wide applicability and effectiveness of our method in enhancing detection precision while maintaining operational efficiency. Our code is available at https://github.com/cvlab-stonybrook/scenes100/tree/main/moe.}
 }
 
 
