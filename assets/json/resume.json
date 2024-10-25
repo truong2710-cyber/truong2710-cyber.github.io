@@ -77,15 +77,23 @@
       "summary": "The authors propose a two-phase heuristic algorithm to solve Q-Coverage and Q-Connectivity problem in wireless sensor networks based on graph theory and clustering technique."
     }
   ],
+  "certificates":[
+    {
+      "name": "IELTS Academic 7.5",
+      "date": "2024-10-24",
+      "issuer": "British Council",
+      "icon": "fa-solid fa-pencil"
+    }
+  ],
   "references": [
     {
       "name": "Professor Minh Hoai Nguyen",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-user-tie-hair",
       "reference": "The University of Adelaide, email: minhhoai.nguyen@adelaide.edu.au"
     },
     {
       "name": "Professor Thi Thanh Binh Huynh",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "fa-solid fa-user-tie-hair-long",
       "reference": "Hanoi University of Science and Technology, email: binh.huynhthithanh@hust.edu.vn"
     }
   ]
