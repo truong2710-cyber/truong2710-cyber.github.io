@@ -75,6 +75,11 @@
       "releaseDate": "2023-01-11",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S1084804522002193?via%3Dihub",
       "summary": "The authors propose a two-phase heuristic algorithm to solve Q-Coverage and Q-Connectivity problem in wireless sensor networks based on graph theory and clustering technique."
+    },
+    {
+      "name": "Prompt Adaptation for Open-Vocabulary Object Detection",
+      "publisher": "Under review",
+      "summary": "The authors propose a lightweight prompt enhancer module for open-vocabulary object detection."
     }
   ],
   "certificates":[
