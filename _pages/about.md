@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: AI Resident at VinAI Research
+subtitle: Incoming MSc Student in Computer Vision @ MBZUAI | Ex-AI Resident @ Qualcomm | Ex-AI Resident @ VinAI Research
 
 profile:
   align: right
