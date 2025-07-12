@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Quang Truong Vu",
-    "label": "AI Resident",
+    "label": "AI Researcher",
     "image": "",
     "email": "vuquang27102001@gmail.com",
     "phone": "(+84)981868103",
@@ -28,7 +28,7 @@
       "position": "AI Resident",
       "url": "https://www.qualcomm.com/research/artificial-intelligence",
       "startDate": "2025-04-01",
-      "endDate": "now",
+      "endDate": "2025-06-06",
       "summary": "Doing research in Efficient Object Detection under the supervision of Prof. Minh Hoai Nguyen (The University of Adelaide).",
       "highlights": []
     },
