@@ -53,6 +53,14 @@
   ],
   "education": [
     {
+      "institution": "Mohamed bin Zayed University of Artificial Intelligence",
+      "location": "Abu Dhabi, UAE",
+      "url": "https://mbzuai.ac.ae/",
+      "area": "Computer Vision",
+      "studyType": "Master of Science",
+      "startDate": "2025-08-11"
+    },
+    {
       "institution": "Hanoi University of Science and Technology",
       "location": "Hanoi, Vietnam",
       "url": "https://hust.edu.vn/",

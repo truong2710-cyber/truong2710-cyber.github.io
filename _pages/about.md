@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming MSc Student in Computer Vision @ MBZUAI | Ex-AI Resident @ Qualcomm | Ex-AI Resident @ VinAI Research
+subtitle: MSc Student in Computer Vision @ MBZUAI | Ex-AI Resident @ Qualcomm | Ex-AI Resident @ VinAI Research
 
 profile:
   align: right
@@ -22,4 +22,4 @@ In 2023, I reveived an excellent Bachelor Degree on Computer Science in Talented
 
 From Feb 2023 to May 2025, I had been working at VinAI Research and then Qualcomm AI Research as an AI Resident under the supervision of Prof. Minh Hoai Nguyen (The University of Adelaide) on **Efficient Object Detection**.
 
-I will be pursuing a Master’s in Computer Vision at MBZUAI starting in the Fall 2025 semester.
+I am pursuing a Master’s in Computer Vision at MBZUAI starting in the Fall 2025 semester.
