@@ -96,6 +96,7 @@
       "name": "Low-Rank Prompt Adaptation for Open-Vocabulary Object Detection",
       "publisher": "ICCV 2025 Workshop",
       "releaseDate": "2025-07-10",
+      "url": "https://openaccess.thecvf.com/content/ICCV2025W/MMFM/papers/Zhang_Low-Rank_Prompt_Adaptation_for_Open-Vocabulary_Object_Detection_ICCVW_2025_paper.pdf",
       "summary": "The authors propose a lightweight prompt enhancer module for open-vocabulary object detection."
     }
   ],
