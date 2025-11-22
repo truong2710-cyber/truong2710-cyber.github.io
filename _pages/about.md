@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ex-AI Resident @ Qualcomm | Ex-AI Resident @ VinAI Research
+subtitle: Visiting Researcher @ MBZUAI | Ex-AI Resident @ Qualcomm | Ex-AI Resident @ VinAI Research
 
 profile:
   align: right
@@ -23,4 +23,5 @@ In 2023, I reveived an excellent Bachelor Degree on Computer Science in Talented
 From Feb 2023 to May 2025, I had been working at VinAI Research and then Qualcomm AI Research as an AI Resident under the supervision of Prof. Minh Hoai Nguyen (The University of Adelaide) on **Efficient Object Detection**.
 
 I am seeking a fully funded Master's opportunity in CS / AI & ML focusing on Medical AI / Efficient AI / Vision-language models / Foundation models.
-<!-- I am pursuing a Master’s in Computer Vision at MBZUAI starting in the Fall 2025 semester. -->
+
+Currently, I am a visiting researcher at **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**, where I focus on **Medical AI** under the guidance of Assistant Professor **Yutong Xie**.
