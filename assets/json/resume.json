@@ -107,6 +107,12 @@
       "releaseDate": "2025-07-10",
       "url": "https://openaccess.thecvf.com/content/ICCV2025W/MMFM/papers/Zhang_Low-Rank_Prompt_Adaptation_for_Open-Vocabulary_Object_Detection_ICCVW_2025_paper.pdf",
       "summary": "The authors propose a lightweight prompt enhancer module for open-vocabulary object detection."
+    },
+    {
+      "name": "STEAM: Securing the connections in wireless sensor networks with varying target priority",
+      "publisher": "Computer Networks",
+      "releaseDate": "2026-01-13",
+      "summary": "The authors propose a graph-based algorithm to tackle Q-Secure Connectivity problem in wireless sensor networks."
     }
   ],
   "certificates":[
