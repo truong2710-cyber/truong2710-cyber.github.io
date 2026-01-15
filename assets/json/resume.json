@@ -112,6 +112,7 @@
       "name": "STEAM: Securing the connections in wireless sensor networks with varying target priority",
       "publisher": "Computer Networks",
       "releaseDate": "2026-01-13",
+      "url": "https://doi.org/10.1016/j.comnet.2026.112024",
       "summary": "The authors propose a graph-based algorithm to tackle Q-Secure Connectivity problem in wireless sensor networks."
     }
   ],
