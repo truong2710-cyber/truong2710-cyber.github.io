@@ -76,42 +76,42 @@
     {
       "name": "Striking the perfect balance: Multi-objective optimization for minimizing deployment cost and maximizing coverage with Harmony Search",
       "publisher": "Journal of Network and Computer Applications",
-      "releaseDate": "2024-08-29",
+      "releaseDate": "2024-08",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S1084804524001838",
       "summary": "It proposes various enhancements for Harmony Search to solve a multi-objective optimization problem in heterogeneous wireless sensor networks."
     },
     {
       "name": "Efficiency-preserving Scene-adaptive Object Detection",
       "publisher": "In Proceedings of British Machine Vision Conference 2024",
-      "releaseDate": "2024-07-20",
+      "releaseDate": "2024-07",
       "url": "https://minhhoai.net/papers/efficienntSceneAdaptive-BMVC24.pdf",
       "summary": "In this paper, the authors propose MoE architecture to split some initial and terminal layers of a detector to adapt the base model to various scenes without increasing the latency too much."
     },
     {
       "name": "Node placement optimization under Q-Coverage and Q-Connectivity constraints in wireless sensor networks",
       "publisher": "Journal of Network and Computer Applications",
-      "releaseDate": "2023-01-11",
+      "releaseDate": "2023-01",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S1084804522002193?via%3Dihub",
       "summary": "The authors propose a two-phase heuristic algorithm to solve Q-Coverage and Q-Connectivity problem in wireless sensor networks based on graph theory and clustering technique."
     },
     {
       "name": "SPARTA-GEMSTONE: A two-phase approach for efficient node placement in 3D WSNs under Q-Coverage and Q-Connectivity constraints",
       "publisher": "Journal of Network and Computer Applications",
-      "releaseDate": "2025-03-25",
+      "releaseDate": "2025-03",
       "url": "https://www.sciencedirect.com/science/article/pii/S1084804525000724",
       "summary": "The authors propose a two-phase heuristic algorithm to solve the node placement optimization problem in 3D wireless sensor networks."
     },
     {
       "name": "Low-Rank Prompt Adaptation for Open-Vocabulary Object Detection",
       "publisher": "ICCV 2025 Workshop",
-      "releaseDate": "2025-07-10",
+      "releaseDate": "2025-07",
       "url": "https://openaccess.thecvf.com/content/ICCV2025W/MMFM/papers/Zhang_Low-Rank_Prompt_Adaptation_for_Open-Vocabulary_Object_Detection_ICCVW_2025_paper.pdf",
       "summary": "The authors propose a lightweight prompt enhancer module for open-vocabulary object detection."
     },
     {
       "name": "STEAM: Securing the connections in wireless sensor networks with varying target priority",
       "publisher": "Computer Networks",
-      "releaseDate": "2026-01-13",
+      "releaseDate": "2026-01",
       "url": "https://doi.org/10.1016/j.comnet.2026.112024",
       "summary": "The authors propose a graph-based algorithm to tackle Q-Secure Connectivity problem in wireless sensor networks."
     }
