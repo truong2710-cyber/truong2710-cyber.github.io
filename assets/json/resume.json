@@ -84,7 +84,7 @@
       "name": "Efficiency-preserving Scene-adaptive Object Detection",
       "publisher": "In Proceedings of British Machine Vision Conference 2024",
       "releaseDate": "2024-07",
-      "url": "https://minhhoai.net/papers/efficienntSceneAdaptive-BMVC24.pdf",
+      "url": "https://bmva-archive.org.uk/bmvc/2024/papers/Paper_14/paper.pdf",
       "summary": "In this paper, the authors propose MoE architecture to split some initial and terminal layers of a detector to adapt the base model to various scenes without increasing the latency too much."
     },
     {
