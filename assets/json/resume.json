@@ -114,6 +114,13 @@
       "releaseDate": "2026-01",
       "url": "https://doi.org/10.1016/j.comnet.2026.112024",
       "summary": "The authors propose a graph-based algorithm to tackle Q-Secure Connectivity problem in wireless sensor networks."
+    },
+    {
+      "name": "Attention-Based Prototype Calibration for Multi-Rater Few-Shot Medical Image Segmentation",
+      "publisher": "MICCAI 2026",
+      "releaseDate": "2026-06",
+      "url": "https://arxiv.org/abs/2606.16325",
+      "summary": "The authors propose a new solution for a new probem: few-shot multi-rater medical image segmentation."
     }
   ],
   "certificates":[
@@ -134,6 +141,11 @@
       "name": "Professor Thi Thanh Binh Huynh",
       "icon": "fa-solid fa-user-tie-hair-long",
       "reference": "Hanoi University of Science and Technology, email: binhht@soict.hust.edu.vn"
+    },
+    {
+      "name": "Assistant Professor Yutong Xie",
+      "icon": "fa-solid fa-user-tie-hair-long",
+      "reference": "Mohamed bin Zayed University of Artificial Intelligence, email: yutong.xie@mbzuai.ac.ae"
     }
   ]
 }
