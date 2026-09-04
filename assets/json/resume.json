@@ -62,6 +62,15 @@
   ],
   "education": [
     {
+      "institution": "Institut Polytechnique de Paris",
+      "location": "Palaiseau, France",
+      "url": "https://dataai.telecom-paris.fr/",
+      "area": "Data and Artificial Intelligence",
+      "studyType": "Master",
+      "startDate": "2026-09-10",
+      "endDate": "Present"
+    },
+    {
       "institution": "Hanoi University of Science and Technology",
       "location": "Hanoi, Vietnam",
       "url": "https://hust.edu.vn/",

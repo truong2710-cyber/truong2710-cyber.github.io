@@ -22,6 +22,6 @@ In 2023, I reveived an excellent Bachelor Degree on Computer Science in Talented
 
 From Feb 2023 to May 2025, I had been working at VinAI Research and then Qualcomm AI Research as an AI Resident under the supervision of Prof. Minh Hoai Nguyen (The University of Adelaide) on **Efficient Object Detection**.
 
-I am seeking a fully funded Master's opportunity in CS / AI & ML focusing on Medical AI / Efficient AI / Vision-language models / Foundation models.
+From Nov 2025 to Aug 2026, I worked as a visiting researcher at **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**, where I focus on **Medical AI** under the guidance of Assistant Professor **Yutong Xie**.
 
-Currently, I am a visiting researcher at **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**, where I focus on **Medical AI** under the guidance of Assistant Professor **Yutong Xie**.
+Currently, I am pursuing a Master's in Data and AI at Institut Polytechnique de Paris under the supervision of Professor **Van Tam Nguyen**.
