@@ -127,8 +127,8 @@
     {
       "name": "Attention-Based Prototype Calibration for Multi-Rater Few-Shot Medical Image Segmentation",
       "publisher": "MICCAI 2026",
-      "releaseDate": "2026-06",
-      "url": "https://arxiv.org/abs/2606.16325",
+      "releaseDate": "2026-09",
+      "url": "https://papers.miccai.org/miccai-2026/paper/3792_paper.pdf",
       "summary": "The authors propose a new solution for a new probem: few-shot multi-rater medical image segmentation."
     }
   ],

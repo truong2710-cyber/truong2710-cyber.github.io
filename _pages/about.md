@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Visiting Researcher @ MBZUAI | Ex-AI Resident @ Qualcomm | Ex-AI Resident @ VinAI Research
+subtitle: MSc student @ IP Paris
 
 profile:
   align: right
